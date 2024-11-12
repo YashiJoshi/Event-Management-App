@@ -1,2 +1,2 @@
-# kriyeta_event_manage
-.html/
+ # kriyeta_event_mana
+ 
